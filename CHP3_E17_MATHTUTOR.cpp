@@ -6,6 +6,7 @@ Description: This program generates a simple addition problem for a student.
 The student sees the problem, works on it, and presses Enter to reveal the answer.
 Then display the correct answer and tell the student either 
 "You are correct" or "Your answer is not correct."
+
 */
 
 
